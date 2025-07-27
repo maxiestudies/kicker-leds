@@ -14,4 +14,6 @@ After turning on the device, the Leds blink 10 times to check functionality
 | on  | off | off | all three Leds blink with only 500ms wait                                                 |
 | on  | off | on  | same as above but with only 200ms                                                         |
 
+## Schematics
 
+![schematics](Kicker-leds_schem.png)
